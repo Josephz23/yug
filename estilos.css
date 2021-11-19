@@ -106,7 +106,7 @@ header{
 /* * ============================== */
 
 .contenedor-imagen {
-	height: 130vh;
+	height: 105vh;
 	background: url("f.jpg");
 	background-size:cover;
 	cursor: pointer;
